@@ -1,4 +1,4 @@
-Cocos2d-JS-v3-Tutorial-71---UICheckBox
+Cocos2d-JS v3 Tutorial 71 - UICheckBox
 ======================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/uMnHAHpMtDc
